@@ -16,7 +16,7 @@ Welcome to "This Ain't Normal Chess," a modified version of the classic chess ga
 - **Customized Gameplay**: A modified version of chess, excluding castle and unpassant moves.
 
 ## Technologies Used 🖥️
-[![JAVA](https://skillicons.dev/icons?i=java)]
+![JAVA](https://skillicons.dev/icons?i=java)
 - **Java**: Core programming language for game logic.
 - **Swing**: UI development using Java's Swing library.
 
