@@ -1,6 +1,6 @@
 # This Ain't Normal Chess! 🛡️👑
 
-Welcome to "This Ain't Normal Chess," a modified version of the classic chess game, implemented using Java and Swing! 🚀
+Welcome to "This Ain't Normal Chess," a modified version of the classic chess game, implemented using Java and Swing! 🚀 
 
 ![Chess Board](imgs/ChessGame.png)
 
