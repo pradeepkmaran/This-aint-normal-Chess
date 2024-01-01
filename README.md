@@ -17,9 +17,8 @@ Welcome to "This Ain't Normal Chess," a modified version of the classic chess ga
 
 ## Technologies Used 🖥️
 
-- **Java**: Core programming language for game logic.
+- [![JAVA](https://skillicons.dev/icons?i=java)](https://skillicons.dev) **Java**: Core programming language for game logic.
 - **Swing**: UI development using Java's Swing library.
-- **Chess Logic**: Customized logic for implementing "Ninja" and "Emergency" moves.
 
 ## How to Play 🎯
 
